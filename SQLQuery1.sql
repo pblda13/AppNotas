@@ -1,0 +1,2 @@
+﻿INSERT INTO Nota VALUES (0, 0, 0, 0);
+SELECT * FROM Nota;
